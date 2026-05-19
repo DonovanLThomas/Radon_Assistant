@@ -1,0 +1,1 @@
+open -a "Google Chrome" --args --kiosk http://localhost:8000
